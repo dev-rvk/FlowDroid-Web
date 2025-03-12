@@ -4,3 +4,5 @@ flow-droid-server/dist
 
 flow-droid-server/tools/input/*
 flow-droid-server/tools/output/*
+
+.DS_Store
