@@ -32,7 +32,7 @@ Ensure that the `ANDROID_SDK` environment variable is correctly set to the Andro
 
 1. Clone the FlowDroid client repository:
    ```sh
-   git clone <client_repo_url>
+   git clone https://github.com/dev-rvk/FlowDroid-Web.git
    ```
 2. Navigate to the client directory:
    ```sh
