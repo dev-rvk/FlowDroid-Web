@@ -1,0 +1,6 @@
+flow-droid-server/.env
+flow-droid-server/node_modules
+flow-droid-server/dist
+
+flow-droid-server/tools/input/*
+flow-droid-server/tools/output/*
